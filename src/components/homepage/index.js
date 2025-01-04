@@ -6,7 +6,7 @@ import ShowAllProducts from './allProducts'
 export default function Home() {
   return (
     <div>
-      <Hero />
+      {/* <Hero /> */}
       <ShowAllProducts />
       <Categories />
     </div>
